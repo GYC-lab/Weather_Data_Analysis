@@ -4,4 +4,4 @@ This code is developed by Yuchen Ge based on a coursework about machine learning
 
 The weather data was all crawled from https://tianqi.2345.com in November 2021.
 
-If you want to see more detailed description, please read the documentation ***FCSADA_V1.0_User_Guide_CN.pdf***
+If you want to see more detailed description, please read the documentation ***ML_Weather_Data_Analysis_Handbook_CN.pdf***
